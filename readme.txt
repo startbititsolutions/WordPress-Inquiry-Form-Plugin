@@ -1,30 +1,21 @@
- === WP Inquiry Form ===
-Contributors: vivacityinfotech.jaipur
+ === WordPress Inquiry Form Plugin ===
+Contributors: vivacityinfotechjaipur
 Donate link: http://tinyurl.com/owxtkmt
-Tags:  wp inquiry Form, inquiry Form, inquiry Form wordpress, form, contact form, contact, communication, communication form.
-Requires at least: 3.0
-Tested up to: 3.8
+Tags:  wp inquiry form, inquiry Form, inquiry form wordpress, form, contact form, contact, communication, communication form.
+Requires at least: 5.0
+Tested up to: 6.3.1
 License: GPLv2 or later
 
-An easy way to add WP Inquiry Form in your pages and post with shortcode[request_message].
+An easy way to add WordPress Inquiry Form in your pages and post with shortcode[request_message].
 
 == Description ==
-A page on a Web site that allows users to communicate with the site owner. The page has fields for filling in name, email and type of message. 
- however, the inquiry form provides an immediate, convenient way for users to ask the company questions.
-An enquiry form is a form that is filled out by an individual who has an enquiry or questions that they would want answers to.
- Most organizations have these forms to ease the process of answering client enquiries.
-
-
-
+A page on a web site that allows users to communicate with the site owner. The page has fields for filling in name, email and type of message. However, the inquiry form provides an immediate, convenient way for users to ask the company questions. An enquiry form is a form that is filled out by an individual who has an enquiry or questions that they would want answers to. Most organizations have these forms to ease the process of answering client enquiries.
 
 = Features =
-
-    -Easy to install.
-    -Tons of configuration options.
-    -Fully responsive - will adapt to any device.
-    -Browser support: Firefox, Chrome, Safari, Opera , IE7+
-    
-    
+    - Easy to install.
+    - Tons of configuration options.
+    - Fully responsive - will adapt to any device.
+    - Browser support: Firefox, Chrome, Safari, Opera , IE7+   
 
 = Rate Us / Feedback =
 
@@ -44,9 +35,9 @@ If you like the plugin please [Donate here](http://tinyurl.com/owxtkmt).
 
 Installation consists of following steps:
 
-1. Upload "WP Inquiry Form" to the /wp-content/plugins/ directory
+1. Upload "WordPress Inquiry Form" to the /wp-content/plugins/ directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Place the "WP Inquiry Form"  in your dashboard menu a area.
+3. Place the "WordPress Inquiry Form" in your dashboard menu a area.
 
 == Frequently Asked Questions ==
 
@@ -57,18 +48,13 @@ Installation consists of following steps:
 	Yes you can set different email in the admin area.
 
 	= Is it possible to change field lable ? =
-	Yes you can . Give the name of field in the admin area. 
-
-
-
+	Yes you can. Give the name of field in the admin area. 
 
 == Screenshots ==
-1. WP Inquiry Form plugin appears after activation in dashboard menu section  .
-2. WP Inquiry Form plugin appears after activation in WP Inquiry Form setting section  .
-
+1. WordPress Inquiry Form plugin appears after activation in dashboard menu section  .
+2. WordPress Inquiry Form plugin appears after activation in WP Inquiry Form setting section  .
 
 == Changelog ==
 
 = 1.0 =
 * Initial release
-
