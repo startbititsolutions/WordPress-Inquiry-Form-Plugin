@@ -1,29 +1,22 @@
 <?php
-		/*
-		Plugin Name:WP Inquiry Form
-		Plugin URI: http://www.vivacityinfotech.com
-		Description: Simple WP Inquiry form for your blog posts or pages.
-		Author: vivacityinfotech		
-		Authero URI: http://vivacityinfotech.com
-		Version: 1.0
-		Requires at least: 3.8 or later
-		
-		*/
-	/*  
-    This program is free software; you can redistribute it and/or modify
-    it under the terms of the GNU General Public License, version 2, as 
-    published by the Free Software Foundation.
+/*
+Plugin Name: WP Inquiry Form
+Plugin URI: https://www.startbitsolutions.com
+Description: Simple WP Inquiry form for your blog posts or pages.
+Author: vivacityinfotech.jaipur		
+Authero URI: https://www.startbitsolutions.com
+Version: 1.0
+Requires at least: 5.0 or later
+*/
+/*  
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License, version 2, as published by the Free Software Foundation.
 
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
-    You should have received a copy of the GNU General Public License
-    along with this program.*/
-   	
-	?>
-<?php
+You should have received a copy of the GNU General Public License along with this program.
+*/
+
+
 
 //menu show in dashborad
 function init_admin_actions() {
