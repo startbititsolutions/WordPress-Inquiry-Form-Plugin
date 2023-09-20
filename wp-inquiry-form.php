@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: WP Inquiry Form
+Plugin Name: WordPress Inquiry Form
 Plugin URI: https://www.startbitsolutions.com
-Description: Simple WP Inquiry form for your blog posts or pages.
+Description: Simple WordPress Inquiry form for your blog posts or pages.
 Author: vivacityinfotech.jaipur		
 Authero URI: https://www.startbitsolutions.com
 Version: 1.0
